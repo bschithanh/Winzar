@@ -26,3 +26,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - ![image](https://github.com/user-attachments/assets/37d3cba8-e2cb-46e3-80b1-ff9431959037)
 - Đặt tên là **rarreg.key**
 - Xong!
+- Khi bạn bẻ khóa nó sẽ là khóa của bạn.
+
+  ![image](https://github.com/user-attachments/assets/7307bd1a-f28f-40be-ae5b-82aa1471ca63)
+
