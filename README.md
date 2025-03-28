@@ -16,3 +16,12 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   - Xong!
 
 ## Cách tạo file [rarreg.key](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e) từ file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j)
+- Mở file lên KeyFileMaker:
+
+  ![image](https://github.com/user-attachments/assets/e07b074c-e5c2-40d7-909d-005b0d6bd895)
+
+  - Name: BsThanh
+  - Type: Tùy chọn 1 trong 3 phương án.
+  - Bấm **Save License**
+- ![image](https://github.com/user-attachments/assets/37d3cba8-e2cb-46e3-80b1-ff9431959037)
+- Xong!
