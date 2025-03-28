@@ -14,6 +14,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
     C:\Program Files\WinRAR
     ```
   - Xong!
+  - Bạn có thể Update các phiên bản mới một cách thoải mái mà không cấn chạy bẻ khóa lại.
 
 ## Cách tạo file [rarreg.key](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e) từ file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j)
 - Mở file lên KeyFileMaker:
@@ -28,5 +29,6 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Xong!
 - Khi bạn bẻ khóa nó sẽ là khóa của bạn.
 
-  ![image](https://github.com/user-attachments/assets/7307bd1a-f28f-40be-ae5b-82aa1471ca63)
+  ![image](https://github.com/user-attachments/assets/e4997ab3-c12e-4d6c-81f0-5e6f8eda9677)
+
 
