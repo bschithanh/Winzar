@@ -4,8 +4,12 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
 
-
-
-[rarreg.key](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e)
-
-[KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j)
+## Download bản trial về từ [trang chủ](https://www.rarlab.com/download.htm)
+- Download về cài đặt như bình thường.
+- Cách bẻ khóa:
+  - Download file [rarreg.key tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e)
+  - Hoặc download file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j) để tự tạo file rarreg.key
+  - Copy file rarreg.key vào thư mục:
+    ```php
+    C:\Program Files\WinRAR
+    ```
