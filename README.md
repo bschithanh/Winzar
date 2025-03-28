@@ -20,8 +20,9 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
   ![image](https://github.com/user-attachments/assets/e07b074c-e5c2-40d7-909d-005b0d6bd895)
 
-  - Name: BsThanh
+  - Name: BsThanh (Bạn muốn đặt tên là gì cũng được, tùy thích)
   - Type: Tùy chọn 1 trong 3 phương án.
   - Bấm **Save License**
 - ![image](https://github.com/user-attachments/assets/37d3cba8-e2cb-46e3-80b1-ff9431959037)
+- Đặt tên là **rarreg.key**
 - Xong!
