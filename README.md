@@ -13,3 +13,4 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
     ```php
     C:\Program Files\WinRAR
     ```
+  - Xong!
