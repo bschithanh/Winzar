@@ -37,7 +37,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   6afc97d21d97375779fe90445009f49e5920a39738e32679745056
   ```
 
-- Lưu ý: Dòng tên ``BsNguyenChiThanh_Phone(+84914678254)`` bạn có thể chỉnh lại theo ý mình ví dụ ``Nguyễn Văn A`` 
+- Lưu ý: Dòng tên ``BsNguyenChiThanh_Phone(+84914678254)`` bạn có thể chỉnh lại theo ý mình ví dụ ``NguyenVanA`` 
 
 ## Cách tạo file [rarreg.key](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e) từ file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j)
 - Mở file lên KeyFileMaker:
