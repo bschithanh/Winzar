@@ -27,8 +27,6 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - ![image](https://github.com/user-attachments/assets/37d3cba8-e2cb-46e3-80b1-ff9431959037)
 - Đặt tên là **rarreg.key**
 - Xong!
-- Khi bạn bẻ khóa nó sẽ là khóa của bạn.
-
-  ![image](https://github.com/user-attachments/assets/e4997ab3-c12e-4d6c-81f0-5e6f8eda9677)
-
-
+- Khi bạn bẻ khóa xong, bạn muốn xem chìa khóa của bạn bằng cách mởi **Winzar** lên chọn **Help-->About WinRaR...**
+- ![image](https://github.com/user-attachments/assets/74b8be50-e0de-4456-bdfd-e0aad5755663)
+- ![image](https://github.com/user-attachments/assets/de3c61aa-ae86-4b4e-b102-ed978870c06c)
