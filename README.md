@@ -7,8 +7,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 ## Download bản trial về từ [trang chủ](https://www.rarlab.com/download.htm)
 - Download về cài đặt như bình thường.
 - Cách bẻ khóa:
-  - Download file [rarreg.key tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e)
-  - Hoặc download file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j) để tự tạo file rarreg.key
+  - Download file [rarreg.key tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/rarreg.key)
+  - Hoặc download file [KeyFileMaker](https://raw.githubusercontent.com/bschithanh/nguon/main/KeyFileMaker.exe) để tự tạo file rarreg.key
   - Copy file rarreg.key vào thư mục:
     ```php
     C:\Program Files\WinRAR
@@ -16,7 +16,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
   - Xong!
   - Bạn có thể Update các phiên bản mới một cách thoải mái mà không cấn chạy bẻ khóa lại.
 
-## Cách tạo file [rarreg.key](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EepYp8UT61BPrqI2IliIK7oBKONX3S_bbMc01a4pexjV5g?e=tlwv4e) từ file [KeyFileMaker](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETPq-H_2RwBOhqz5AhmGfzwBWYttGO1huGLTxzmHZE7Hrg?e=BSJk7j)
+## Cách tạo file [rarreg.key](https://raw.githubusercontent.com/bschithanh/nguon/main/rarreg.key) từ file [KeyFileMaker](https://raw.githubusercontent.com/bschithanh/nguon/main/KeyFileMaker.exe)
 - Mở file lên KeyFileMaker:
 
   ![image](https://github.com/user-attachments/assets/e07b074c-e5c2-40d7-909d-005b0d6bd895)
