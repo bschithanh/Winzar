@@ -4,7 +4,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
 
-## Download bản trial về từ [trang chủ](https://www.rarlab.com/download.htm)
+## Download bản trial 64 Bit về từ [trang chủ](https://www.rarlab.com/download.htm)
 - Download về cài đặt như bình thường.
 - [Winzar 32 Bit bản cao nhất 7.07](https://raw.githubusercontent.com/bschithanh/nguon/main/winrar-x32-701.exe)
 - Cách bẻ khóa:
