@@ -6,6 +6,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ## Download bản trial về từ [trang chủ](https://www.rarlab.com/download.htm)
 - Download về cài đặt như bình thường.
+- [Winzar 32 Bit bản cao nhất 7.07](https://raw.githubusercontent.com/bschithanh/nguon/main/winrar-x32-701.exe)
 - Cách bẻ khóa:
   - Download file [rarreg.key tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/rarreg.key)
   - Hoặc download file [KeyFileMaker](https://raw.githubusercontent.com/bschithanh/nguon/main/KeyFileMaker.exe) để tự tạo file rarreg.key
